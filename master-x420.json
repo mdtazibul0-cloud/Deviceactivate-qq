@@ -52,5 +52,11 @@
         "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5cfebfb86bdce2e8",
+        "key": "11111",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
