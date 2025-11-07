@@ -42,8 +42,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "5cfebfb86bdce2e8",
+        "device_id": "eea566457c73911b",
         "key": "k",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     }
